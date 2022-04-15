@@ -1,0 +1,22 @@
+Date : 2022-01-23 02:24:46.280742
+Query : ['rabbit', 'queen']
+Find in searching.
+Query find in 1 documents.
+Score  Doc[1] :2.0548 
+Searching time : 0.002sec.
+---------------------------------------------------
+Date : 2022-01-23 02:24:53.805381
+Query : ['money']
+Find in searching.
+Query find in 4 documents.
+Score  Doc[1] :0.1123 
+Score  Doc[2] :0.1524 
+Score  Doc[3] :0.1376 
+Score  Doc[4] :0.1268 
+Searching time : 0.00095sec.
+---------------------------------------------------
+Date : 2022-01-23 02:25:04.843314
+Query : ['nikos']
+No results for this search.
+Searching time : 0.00095sec.
+---------------------------------------------------
